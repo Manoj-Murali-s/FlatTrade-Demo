@@ -1,0 +1,44 @@
+/*  Topper logo and contact Start */
+ .contactpara.text-primary.strong {
+    font-weight: bold;
+  }
+  /*  Topper logo and contact Start */
+
+
+ /* parah 1 start   */
+.parah {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+/* Parah 1 End  */
+
+/* parah list 2 Start */
+
+.proffcard {
+  display: flex;
+  align-items: center;
+  color: darkcyan;
+font-weight: bold;
+}
+
+/* parah list 2 End */
+
+.ohd {
+  color: orange;
+}
+.imghigh  {
+  background: #f3f3f2;
+}
+.d-flex.align-items-center {
+  width: 400px;
+ 
+}
+.vl {
+  border-left: 1px solid white;
+  height: 5em;
+}
+
+footer {
+  background: #f3f3f2;
+}
